@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  smeejas:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2022-01-02T11:42:36.9628111-05:00"
+    description: smee operator
+    digest: d776ddbd5bd1ca9b9ece48fcf2a5999607dd149a422d6262c3c0672d4af8ed23
+    name: smeejas
+    type: application
+    urls:
+    - https://fanzynoodle.github.io/charts/smeejas-0.0.1.tgz
+    version: 0.0.1
+generated: "2022-01-02T11:42:36.9613705-05:00"
